@@ -1,4 +1,5 @@
-# This repository contains my coursework for CMSC 203 (Computer Science I) at Montgomery College. The course focuses on fundamental computer concepts and object-oriented programming using Java. Topics include:
+# CMSC 203 - Computer Science I Coursework
+This repository contains my coursework for CMSC 203 (Computer Science I) at Montgomery College. The course focuses on fundamental computer concepts and object-oriented programming using Java. Topics include:
 
 Object-oriented program development and design
 
